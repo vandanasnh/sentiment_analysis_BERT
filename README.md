@@ -2,7 +2,7 @@
 
 The data used consists of 3,000 customer reviews labeled as positive (1) or negative (0). The data is split into a training set of 2,400 samples and a testing set of 600 samples.
 
-[Bert Model Flow](https://github.com/vandanasnh/sentiment_analysis_BERT/blob/main/screenshot.png)
+![Bert Model Flow](https://github.com/vandanasnh/sentiment_analysis_BERT/blob/main/screenshot.png)
 
 **Data Processing**
 
